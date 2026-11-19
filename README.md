@@ -64,7 +64,7 @@ The table below catalogs premier commercial AI coding platforms, sorted in desce
 
 ## 💻 Open-Source GitHub Projects
 
-The table below catalogs top open-source AI coding assistants, autonomous agents, and developer tools, sorted in descending order by **GitHub Stars_Count**.
+The table below catalogs top open-source AI coding assistants, autonomous agents, and developer tools, sorted in descending order by **GitHub_Stars_Count**.
 
 | Open-Source Project | GitHub_Stars & Community | License | Primary Stack | Core Capabilities & Architecture |
 | :--- | :--- | :--- | :--- | :--- |
