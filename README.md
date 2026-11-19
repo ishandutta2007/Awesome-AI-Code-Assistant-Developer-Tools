@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Code-Assistant-Developer-Tools"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Code-Assistant-Developer-Tools?style=flat-square&logo=github&color=blue" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Code-Assistant-Developer-Tools"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Code-Assistant-Developer-Tools?style=flat-square&logo=github&color=blue" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Code-Assistant-Developer-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Code-Assistant-Developer-Tools?style=flat-square&logo=github&color=teal" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Code-Assistant-Developer-Tools/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Code-Assistant-Developer-Tools?style=flat-square&color=orange" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Code-Assistant-Developer-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
@@ -64,9 +64,9 @@ The table below catalogs premier commercial AI coding platforms, sorted in desce
 
 ## 💻 Open-Source GitHub Projects
 
-The table below catalogs top open-source AI coding assistants, autonomous agents, and developer tools, sorted in descending order by **GitHub Star Count**.
+The table below catalogs top open-source AI coding assistants, autonomous agents, and developer tools, sorted in descending order by **GitHub Stars_Count**.
 
-| Open-Source Project | Stars & Community | License | Primary Stack | Core Capabilities & Architecture |
+| Open-Source Project | GitHub_Stars & Community | License | Primary Stack | Core Capabilities & Architecture |
 | :--- | :--- | :--- | :--- | :--- |
 | **[OpenCode](https://github.com/anomalyco/opencode)** | [![Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers) | `MIT` | TypeScript / Go | Modern terminal-native AI coding agent featuring a polished TUI, LSP diagnostics integration, client/server architecture, and multi-provider LLM support. |
 | **[Codex CLI](https://github.com/openai/codex)** | [![Stars](https://img.shields.io/github/stars/openai/codex?style=social&color=white)](https://github.com/openai/codex/stargazers) | `Apache-2.0` | Python / Rust | OpenAI's command-line interface and coding agent toolkit for sandboxed automated program synthesis, refactoring, and code review. |
@@ -127,4 +127,4 @@ If you found this curated list helpful for your developer workflow, please consi
 
 ## ⚠️ Disclaimer
 
-*All product names, logos, trademarks, and registered trademarks mentioned are property of their respective owners. Pricing, free tier limits, star counts, and feature sets are regularly verified and subject to change by their corresponding providers.*
+*All product names, logos, trademarks, and registered trademarks mentioned are property of their respective owners. Pricing, free tier limits, Stars_Counts, and feature sets are regularly verified and subject to change by their corresponding providers.*
