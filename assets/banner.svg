@@ -128,7 +128,7 @@
     <rect x="940" y="230" width="220" height="74" rx="12" fill="url(#pill-grad4)" stroke="rgba(244, 63, 94, 0.4)" stroke-width="1.2" backdrop-filter="blur(8px)"/>
     <circle cx="965" cy="267" r="14" fill="#e11d48" opacity="0.5" />
     <text x="965" y="271" fill="#fb7185" font-size="13" font-weight="bold" text-anchor="middle">🔒</text>
-    <text x="990" y="261" fill="#f8fafc" font-size="12" font-weight="700">Self-Hosted & Local</text>
+    <text x="990" y="261" fill="#f8fafc" font-size="12" font-weight="700">Self-Hosted &amp; Local</text>
     <text x="990" y="279" fill="#94a3b8" font-size="10">Continue • Cline • Tabby</text>
   </g>
 
